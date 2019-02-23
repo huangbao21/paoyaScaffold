@@ -1,0 +1,12 @@
+{
+    "ignore":[
+        "**/HomeView.scene",
+        "**/MatchGradeView.scene",
+        "**/HomeControl.js",
+        "**/logo.png",
+        "laya/assets/**/matchGrade",
+        "laya/assets/**/common/bg.jpg",
+        "laya/assets/**/home/*_play.png",
+        "bin/index.js"
+    ]
+}
